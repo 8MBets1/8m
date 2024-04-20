@@ -1,5 +1,21 @@
-.noti member-verify-noti span{
-    font-family: cursive; 
+custom-menu>.navbar-nav>li>.dropdown-menu>li>a>.notiDiv {
+    font-size: 25px;
+    color: #000000;
+    background: #ec314600;
+    display: none;
+    vertical-align: middle;
+    /* margin-top: -28px; */
+    text-align: center;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    width: auto;
+    padding: 0px 5px;
+    height: 20px;
+    margin-left: 5px;
+    border-radius: 100%;
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    transition-duration: 0.5s;
 }
 
 .notiDiv{
